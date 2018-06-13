@@ -1,6 +1,6 @@
-## Your Name
+## Jack Dewinter
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I am a software developer, keen on automation, especially for improving the process for other developers to release and produce high quality software. A keen interest in technology brought me to pursue my first year in Computer Science at Leeds, my drive to produce software led me to Makers Academy which excelled my development.
 
 ## Skills
 
