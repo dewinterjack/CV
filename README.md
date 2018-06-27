@@ -1,18 +1,14 @@
--- WORK IN PROGRESS --
-
 ## Jack Dewinter
 
 I am a software developer, keen on automation, especially for improving the process for other developers to release and produce high quality software. A keen interest in technology brought me to pursue my first year in Computer Science at Leeds, my drive to produce software led me to Makers Academy which excelled my development.
 
 ## Projects
 
-|                          Project                          |                           Summary                            |                        Technology                        |        Testing        |
-| :-------------------------------------------------------: | :----------------------------------------------------------: | :------------------------------------------------------: | :-------------------: |
-| [MixMakers]( https://github.com/MaryDomashneva/MixMakers) | iOS application. Input ingredients and get cocktails you can make with instructions. |                       Swift, Xcode                       | XCTest, Quick, Nimble |
-|                         BattleSim                         | Browser based Pokemon-style battle simulator, animations in gif style. |                      Ruby, Sinatra                       |         Rspec         |
-|                          Family                           |                     Manage a family tree                     |                           Java                           |                       |
-|                         SortSpeed                         | Tracks sorting algorithm speed for different scenarios and languages. |                            C                             |                       |
-|                           Splat                           |  Create a music playlist based on multiple people's tastes   | Javascript, Typescript, Ionic, Cordova, Angular, Express | Mocha, Chai, Jasmine  |
+|                          Project                          |                           Summary                            |  Technology  |        Testing        |
+| :-------------------------------------------------------: | :----------------------------------------------------------: | :----------: | :-------------------: |
+| [MixMakers]( https://github.com/MaryDomashneva/MixMakers) | iOS application. Input ingredients and get cocktails you can make with instructions. | Swift, Xcode | XCTest, Quick, Nimble |
+|  [BattleSim](https://github.com/dewinterjack/battlesim)   | Browser based Pokemon-style battle simulator, animations in gif style. | Ruby, Rails  |         Rspec         |
+|       [Bank](https://github.com/dewinterjack/bank)        |               API for managing a bank account                |  Javascript  |      Mocha, Chai      |
 
 ## Experience
 
