@@ -22,7 +22,7 @@ I spent my time filming, managing equipment and editing film for corporate and f
 
 **Makers Academy** (February - June 2018)
 
-* Git, Shell etc
+* Git & Shell
 * Deployment
 * Test Driven Development
 * Javascript, Ruby
@@ -30,7 +30,7 @@ I spent my time filming, managing equipment and editing film for corporate and f
 
 **University of Leeds - Computer Science** (September 2016 - January 2018) 
 
-* C and Java programming
+* C, Python and Java programming
 * Processors, Operating Systems
 * Databases
 
@@ -50,3 +50,10 @@ AI has its risks and I believe that if it is not developed in the correct way, t
 
 I want to make the development process as smooth, efficient and enjoyable as possible. This involves educating best practices, automating arduous tasks and creating tools that are a bridge in development, not a hindrance.
 
+**Genealogy**
+
+I love puzzles. I have been researching my family history for many years. Collecting stories and travelling to interesting places, building my family tree along the way.
+
+**Gaming**
+
+I spend time gaming with friends around the world, I am a big fan of competetive esports such as League of Legends and Overwatch.
