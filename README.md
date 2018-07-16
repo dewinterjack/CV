@@ -28,17 +28,17 @@ I spent my time filming, managing equipment and editing film for corporate and f
 * Javascript, Ruby
 * Teamwork & Leadership
 
-**University of Leeds - Computer Science** (September 2016 - January 2018) 
-
-* C, Python and Java programming
-* Processors, Operating Systems
-* Databases
-
 **Westminster Kingsway College - Software Development BTEC Level 3** (September 2014 - June 2016) D*DD (Distinctions)
 
 * Unreal Game Engine, C++
 * Human Computer Interaction
 * Customer/Manager Relations
+
+**University of Leeds - Computer Science** (September 2016 - January 2018) 
+
+* C, Python and Java programming
+* Processors, Operating Systems
+* Databases
 
 ## Interests
 
