@@ -2,12 +2,12 @@
 
 I am a software developer, keen on automation, enabling developers to release and produce high quality software. An interest in technology brought me to pursue my first year in Computer Science at Leeds, my drive to produce software led me to Makers Academy which propelled my development.
 
-| Project          | Description                                                  | Technology                           |
-| ---------------- | ------------------------------------------------------------ | :----------------------------------- |
-| MixMakers        | Input multiple ingredients around your house and find cocktails with instructions. iOS application made in 1 week in a team of 4. | Swift, XCTest                        |
-| Bookmark Manager | Store and manage web bookmarks. Built with TDD using Rspec.  | Ruby, Sinatra, Rspec, PostgreSQL     |
-| Find a Pet       | Browse through data on adoptable pets. Dynamic table that updates through ReactJS. | Javascript, ReactJS, Meteor, MongoDB |
-| Placegen         | GUI application that generates excel spreadsheet from local businesses. Uses Google Places API and Hunter.io (emails from google places data). | Python, Tkinter                      |
+| Project                                                      | Description                                                  | Technology                           |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | :----------------------------------- |
+| [MixMakers](https://github.com/MaryDomashneva/MixMakers)     | Input multiple ingredients around your house and find cocktails with instructions. iOS application made in 1 week in a team of 4. | Swift, XCTest                        |
+| [Bookmark Manager](https://github.com/dewinterjack/bookmark_week4) | Store and manage web bookmarks. Built with TDD using Rspec.  | Ruby, Sinatra, Rspec, PostgreSQL     |
+| [Find a Pet](https://github.com/dewinterjack/find_a_pet)     | Browse through data on adoptable pets. Dynamic table that updates through ReactJS. | Javascript, ReactJS, Meteor, MongoDB |
+| [Placegen](https://github.com/dewinterjack/placegen)         | GUI application that generates excel spreadsheet from local businesses. Uses Google Places API and Hunter.io (emails from google places data). | Python, Tkinter                      |
 
 **Systems Administrator at IPSA Medical** (July - September 2017)
 
