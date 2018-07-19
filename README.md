@@ -2,6 +2,13 @@
 
 I am a software developer, keen on automation, enabling developers to release and produce high quality software. An interest in technology brought me to pursue my first year in Computer Science at Leeds, my drive to produce software led me to Makers Academy which propelled my development.
 
+| Project          | Description                                                  | Technology                           |
+| ---------------- | ------------------------------------------------------------ | :----------------------------------- |
+| MixMakers        | Input multiple ingredients around your house and find cocktails with instructions. iOS application made in 1 week in a team of 4. | Swift, XCTest                        |
+| Bookmark Manager | Store and manage web bookmarks. Built with TDD using Rspec.  | Ruby, Sinatra, Rspec, PostgreSQL     |
+| Find a Pet       | Browse through data on adoptable pets. Dynamic table that updates through ReactJS. | Javascript, ReactJS, Meteor, MongoDB |
+| Placegen         | GUI application that generates excel spreadsheet from local businesses. Uses Google Places API and Hunter.io (emails from google places data). | Python, Tkinter                      |
+
 **Systems Administrator at IPSA Medical** (July - September 2017)
 
 I automated various data storage and retrieval systems. I set up new database software and programmed a data retrieval system, [Placegen](https://github.com/dewinterjack/placegen) in Python, and other internal software.
@@ -52,8 +59,4 @@ I want to make the development process as smooth, efficient and enjoyable as pos
 
 **Genealogy**
 
-I love puzzles. I have been researching my family history for many years. Collecting stories and travelling to interesting places, building my family tree along the way.
-
-**Gaming**
-
-I spend time gaming with friends around the world, I am a big fan of competetive esports such as League of Legends and Overwatch.
+I have been researching my family history for many years. Collecting stories and travelling to interesting places, building my family tree along the way. I like solving puzzles and learning about my heritage and my interest has led me to interesting ideas and places.
