@@ -1,6 +1,6 @@
 ## Jack Dewinter
 
-I am a software developer, keen on automation, enabling developers to release and produce high quality software. An interest in technology brought me to pursue my first year in Computer Science at Leeds, my drive to produce software led me to Makers Academy which propelled my development.
+I am a software developer, keen on automation, enabling developers to produce and release high quality software. My interest in technology led me to pursue my first year in Computer Science at Leeds; my drive to produce software led me to Makers Academy which propelled my development.
 
 | Project                                                      | Description                                                  | Technology                           |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | :----------------------------------- |
