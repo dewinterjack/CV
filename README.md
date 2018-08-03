@@ -8,6 +8,7 @@ I am a software developer, keen on automation, enabling developers to release an
 | [Bookmark Manager](https://github.com/dewinterjack/bookmark_week4) | Store and manage web bookmarks. Built with TDD using Rspec.  | Ruby, Sinatra, Rspec, PostgreSQL     |
 | [Find a Pet](https://github.com/dewinterjack/find_a_pet)     | Browse through data on adoptable pets. Dynamic table that updates through ReactJS. | Javascript, ReactJS, Meteor, MongoDB |
 | [Placegen](https://github.com/dewinterjack/placegen)         | GUI application that generates excel spreadsheet from local businesses. Uses Google Places API and Hunter.io (emails from google places data). | Python, Tkinter                      |
+| [Algo Analysis](https://github.com/dewinterjack/algo_analysis) | Generate random lists and compare sorting times. Different algorithms are more efficient with different kinds of data. View sort results for one list or generate a chart for multiple lists. | C, gnuplot                           |
 
 **Systems Administrator at IPSA Medical** (July - September 2017)
 
