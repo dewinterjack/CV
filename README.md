@@ -10,6 +10,8 @@ I am a software developer, committed to life-long learning. I am keen on automat
 | [Placegen](https://github.com/dewinterjack/placegen)         | GUI application that generates excel spreadsheet from local businesses. Uses Google Places API and Hunter.io (emails from google places data). | Python, Tkinter                      |
 | [Algo Analysis](https://github.com/dewinterjack/algo_analysis) | Generate random lists and compare sorting times. Different algorithms are more efficient with different kinds of data. View sort results for one list or generate a chart for multiple lists. | C, gnuplot                           |
 
+## Experience
+
 **Dev & Systems Administrator at [IPSA Medical](https://ipsamedical.co.uk/)** (July - September 2017)
 
 I automated various data storage and retrieval systems. I set up new database software and programmed a data retrieval system for potential clients using the Google Places API and various other APIs. - [Placegen](https://github.com/dewinterjack/placegen) in Python
@@ -25,6 +27,22 @@ I assisted in teaching Javascript to kids over school breaks. I spent a lot of t
 **Film-maker at [Gavsy Media](http://gavsymedia.co.uk/)** (September 2014 - February 2015)
 
 I spent my time filming, managing equipment and editing film for corporate and family events. 
+
+ **Bloomberg, London** (July 2015)  
+
+*Work Experience*
+
+ Shadowed each department, learning how their news, data and analytics are dispersed around the world.  I spent most of my time with developers as they built their new system, which helped me learn about larger codebases.
+
+ **Tech Course at Princeton University** (June - July 2013)
+
+ I attended a summer program where I learned to build software, leveraging various programming languages, working alone and in teams and gaining key skills for working in the technology field. C++, Python and Java.
+
+ **Myeloma UK**, London (2010 – present)
+
+ *Ambassador*
+
+ I have been a volunteer for this national cancer charity since I was a teenager. My role here has included attending various events, greeting speakers and guests, participating in their appeal film, as well as raising funds. The funds raised have gone towards medical research to help find a cure for this rare cancer and has also helped to transform lives of the families affected.
 
 ## Education
 
@@ -48,12 +66,28 @@ I spent my time filming, managing equipment and editing film for corporate and f
 * Processors, Operating Systems
 * Databases
 
+## Leadership & Achievements 
+
+ **Young Enterprise** (September – March 2014)
+
+*Managing Director*
+
+ I led our team, ‘Sapphire’, a designer of earmuffs with built-in headphones. Our team reached the regional finals of young enterprise where we received the ‘highly commended' award. I communicated with manufacturers to mass produce our product.
+
+ **Programming club**
+
+ I wasn't satisfied with the programming education at my high school. I set up a club to learn python and basic web development. I encouraged other students to teach and the society continued running after I stopped teaching. I also helped with running the robotics club regularly.
+
 ## Interests
 
-**Automation/Abstraction**
+ **Automation/Abstraction**
 
-I want to make the development process as smooth, efficient and enjoyable as possible. This involves educating best practices, automating arduous tasks and creating tools that are a bridge in development, not a hindrance. I have become interested in abstraction software and would love to enable people to create more.
+ I want to make the development process as smooth, efficient and enjoyable as possible. This involves educating best practices, automating arduous tasks and creating tools that are a bridge in development, not a hindrance. I have become interested in abstraction software and would love to enable people to create more.
 
-**Genealogy**
+ **Ethics in Technology**
 
-I have been researching my family history for many years. Collecting stories and travelling to interesting places, building my family tree along the way. I like solving puzzles and learning about my heritage and my interest has led me to interesting ideas and places.
+ I regularly follow technology news and like to keep up with recent developments. I want to help keep technology on a good path, I think that if good principles and guidelines are followed, AI and other technologies can be a benefit to society, not a hindrance.
+
+ **Genealogy**
+
+ I have been researching my family history for many years, collecting stories and travelling to interesting places and building my family tree along the way. I like solving puzzles which has enabled me to learn about my heritage and piece together my family's history.
