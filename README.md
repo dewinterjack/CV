@@ -1,6 +1,6 @@
 ## Jack Dewinter
 
-I am a software developer, keen on automation, enabling developers to produce and release high quality software. My interest in technology led me to pursue my first year in Computer Science at Leeds; my drive to produce software led me to Makers Academy which propelled my development.
+I am a software developer, committed to life-long learning. I am keen on automation and enabling developers to produce and release high quality software. My interest in technology led me to pursue my first year in Computer Science at Leeds; my drive to produce software led me to Makers Academy which propelled my development.
 
 | Project                                                      | Description                                                  | Technology                           |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | :----------------------------------- |
@@ -10,19 +10,19 @@ I am a software developer, keen on automation, enabling developers to produce an
 | [Placegen](https://github.com/dewinterjack/placegen)         | GUI application that generates excel spreadsheet from local businesses. Uses Google Places API and Hunter.io (emails from google places data). | Python, Tkinter                      |
 | [Algo Analysis](https://github.com/dewinterjack/algo_analysis) | Generate random lists and compare sorting times. Different algorithms are more efficient with different kinds of data. View sort results for one list or generate a chart for multiple lists. | C, gnuplot                           |
 
-**Systems Administrator at IPSA Medical** (July - September 2017)
+**Dev & Systems Administrator at [IPSA Medical](https://ipsamedical.co.uk/)** (July - September 2017)
 
-I automated various data storage and retrieval systems. I set up new database software and programmed a data retrieval system, [Placegen](https://github.com/dewinterjack/placegen) in Python, and other internal software.
+I automated various data storage and retrieval systems. I set up new database software and programmed a data retrieval system for potential clients using the Google Places API and various other APIs. - [Placegen](https://github.com/dewinterjack/placegen) in Python
 
-**Helpdesk Engineer at RockIT** (June - July 2016)
+**Helpdesk Engineer at [RockIT](https://www.rockit.co.uk/)** (June - July 2016)
 
-Assisting clients with IT problems, giving me useful customer relations experience. I worked on-site, installing networks we designed for a client. 
+I dealt with clients as first port of call for technical problems. Remotely accessed client computers to fix their issues, diagnosed and repaired computers sent in to the office and aided senior engineers in setting up office networks on site, including security precautions. Admin on Windows server for various clients.
 
-**Teaching Assistant at BlueShift** (November 2015 - January 2016)
+**Teaching Assistant at [BlueShift](https://blueshiftcoding.com/)** (November 2015 - January 2016)
 
 I assisted in teaching Javascript to kids over school breaks. I spent a lot of time 1 on 1 explaining challenging concepts in an understandable way. This is some of the most rewarding work I have done so far and I always jump at an opportunity to teach.
 
-**Film-maker at Gavsy Media** (September 2014 - February 2015)
+**Film-maker at [Gavsy Media](http://gavsymedia.co.uk/)** (September 2014 - February 2015)
 
 I spent my time filming, managing equipment and editing film for corporate and family events. 
 
@@ -50,13 +50,9 @@ I spent my time filming, managing equipment and editing film for corporate and f
 
 ## Interests
 
-**Ethics in Technology**
+**Automation/Abstraction**
 
-AI has its risks and I believe that if it is not developed in the correct way, there will dangerous results. However, I think that if developed in a moral, careful manner it can follow a better path. I want to develop solutions that ensure AI, how our data is managed, biotech and other concerns in technology are dealt with ethicly. I believe a large part of this process is through education
-
-**Automation/DevOps**
-
-I want to make the development process as smooth, efficient and enjoyable as possible. This involves educating best practices, automating arduous tasks and creating tools that are a bridge in development, not a hindrance.
+I want to make the development process as smooth, efficient and enjoyable as possible. This involves educating best practices, automating arduous tasks and creating tools that are a bridge in development, not a hindrance. I have become interested in abstraction software and would love to enable people to create more.
 
 **Genealogy**
 
