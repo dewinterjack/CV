@@ -4,7 +4,7 @@ I am a software developer, committed to life-long learning. I am keen on automat
 
 | Project                                                      | Description                                                  | Technology                           |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | :----------------------------------- |
-| [MixMakers](https://github.com/MaryDomashneva/MixMakers)     | Input multiple ingredients around your house and find cocktails with instructions. iOS application made in 1 week in a team of 4. | Swift, XCTest                        |
+| [MixMakers](https://github.com/MaryDomashneva/MixMakers)     | Input multiple ingredients around your house and find cocktails with mixing instructions. iOS application made in 1 week in a team of 4 at Makers Academy. We rotated project manager daily and followed various Agile techniques such as kanban boards for planning and standups/retros for continuous feedback, planning and discussion. | Swift, XCTest                        |
 | [Bookmark Manager](https://github.com/dewinterjack/bookmark_week4) | Store and manage web bookmarks. Built with TDD using Rspec.  | Ruby, Sinatra, Rspec, PostgreSQL     |
 | [Find a Pet](https://github.com/dewinterjack/find_a_pet)     | Browse through data on adoptable pets. Dynamic table that updates through ReactJS. | Javascript, ReactJS, Meteor, MongoDB |
 | [Placegen](https://github.com/dewinterjack/placegen)         | GUI application that generates excel spreadsheet from local businesses. Uses Google Places API and Hunter.io (emails from google places data). | Python, Tkinter                      |
