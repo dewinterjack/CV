@@ -26,11 +26,9 @@ I assisted in teaching Javascript to kids over school breaks. I spent a lot of t
 
 **Film-maker at [Gavsy Media](http://gavsymedia.co.uk/)** (September 2014 - February 2015)
 
-I spent my time filming, managing equipment and editing film for corporate and family events. 
+I met with clients to establish requirements and then edited segments of film taken at their charity or private event. I also supported on-site filming for these events.  
 
  **Bloomberg, London** (July 2015)  
-
-*Work Experience*
 
  Shadowed each department, learning how their news, data and analytics are dispersed around the world.  I spent most of my time with developers as they built their new system, which helped me learn about larger codebases.
 
@@ -39,8 +37,6 @@ I spent my time filming, managing equipment and editing film for corporate and f
  I attended a summer program where I learned to build software, leveraging various programming languages, working alone and in teams and gaining key skills for working in the technology field. C++, Python and Java.
 
  **Myeloma UK**, London (2010 – present)
-
- *Ambassador*
 
  I have been a volunteer for this national cancer charity since I was a teenager. My role here has included attending various events, greeting speakers and guests, participating in their appeal film, as well as raising funds. The funds raised have gone towards medical research to help find a cure for this rare cancer and has also helped to transform lives of the families affected.
 
