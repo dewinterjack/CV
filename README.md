@@ -14,11 +14,11 @@ I am a software developer, committed to life-long learning. I am keen on automat
 
 **Dev & Systems Administrator at [IPSA Medical](https://ipsamedical.co.uk/)** (July - September 2017)
 
-I automated various data storage and retrieval systems. I set up new database software and programmed a data retrieval system for potential clients using the Google Places API and various other APIs. - [Placegen](https://github.com/dewinterjack/placegen) in Python
+I automated various data storage and retrieval systems. I set up new database software and programmed a data retrieval system for potential clients using the Google Places API and various other APIs. - The software I wrote is [Placegen](https://github.com/dewinterjack/placegen), written in Python.
 
 **Helpdesk Engineer at [RockIT](https://www.rockit.co.uk/)** (June - July 2016)
 
-I dealt with clients as first port of call for technical problems. Remotely accessed client computers to fix their issues, diagnosed and repaired computers sent in to the office and aided senior engineers in setting up office networks on site, including security precautions. Admin on Windows server for various clients.
+I dealt with clients as first port of call for technical problems. I remotely accessed client computers to fix their issues, diagnosed and repaired computers sent in to the office and aided senior engineers in setting up office networks on site, including security precautions. I was a network admin for various clients which gave me experience in Windows Server. 
 
 **Teaching Assistant at [BlueShift](https://blueshiftcoding.com/)** (November 2015 - January 2016)
 
@@ -30,15 +30,15 @@ I met with clients to establish requirements and then edited segments of film ta
 
  **Bloomberg, London** (July 2015)  
 
- Shadowed each department, learning how their news, data and analytics are dispersed around the world.  I spent most of my time with developers as they built their new system, which helped me learn about larger codebases.
+Shadowed each department, learning how their news, data and analytics are dispersed around the world.  I spent most of my time with developers as they built their new system, which helped me learn about larger codebases.
 
  **Tech Course at Princeton University** (June - July 2013)
 
- I attended a summer program where I learned to build software, leveraging various programming languages, working alone and in teams and gaining key skills for working in the technology field. C++, Python and Java.
+I attended a summer program where I learned to build software, leveraging various programming languages, working alone and in teams and gaining key skills for working in the technology field. C++, Python and Java.
 
  **Myeloma UK**, London (2010 – present)
 
- I have been a volunteer for this national cancer charity since I was a teenager. My role here has included attending various events, greeting speakers and guests, participating in their appeal film, as well as raising funds. The funds raised have gone towards medical research to help find a cure for this rare cancer and has also helped to transform lives of the families affected.
+I have been a volunteer for this national cancer charity since I was a teenager. My role here has included attending various events, greeting speakers and guests, participating in their appeal film, as well as raising funds. The funds raised have gone towards medical research to help find a cure for this rare cancer and has also helped to transform lives of the families affected.
 
 ## Education
 
@@ -68,22 +68,22 @@ I met with clients to establish requirements and then edited segments of film ta
 
 *Managing Director*
 
- I led our team, ‘Sapphire’, a designer of earmuffs with built-in headphones. Our team reached the regional finals of young enterprise where we received the ‘highly commended' award. I communicated with manufacturers to mass produce our product.
+I led our team, ‘Sapphire’, a designer of earmuffs with built-in headphones. Our team reached the regional finals of young enterprise where we received the ‘highly commended' award. I communicated with manufacturers to mass produce our product.
 
  **Programming club**
 
- I wasn't satisfied with the programming education at my high school. I set up a club to learn python and basic web development. I encouraged other students to teach and the society continued running after I stopped teaching. I also helped with running the robotics club regularly.
+I wasn't satisfied with the programming education at my high school. I set up a club to learn python and basic web development. I encouraged other students to teach and the society continued running after I stopped teaching. I also helped with running the robotics club regularly.
 
 ## Interests
 
  **Automation/Abstraction**
 
- I want to make the development process as smooth, efficient and enjoyable as possible. This involves educating best practices, automating arduous tasks and creating tools that are a bridge in development, not a hindrance. I have become interested in abstraction software and would love to enable people to create more.
+I want to make the development process as smooth, efficient and enjoyable as possible. This involves educating best practices, automating arduous tasks and creating tools that are a bridge in development, not a hindrance. I have become interested in abstraction software and would love to enable people to create more.
 
  **Ethics in Technology**
 
- I regularly follow technology news and like to keep up with recent developments. I want to help keep technology on a good path, I think that if good principles and guidelines are followed, AI and other technologies can be a benefit to society, not a hindrance.
+I regularly follow technology news and like to keep up with recent developments. I want to help keep technology on a good path, I think that if good principles and guidelines are followed, AI and other technologies can be a benefit to society, not a hindrance.
 
  **Genealogy**
 
- I have been researching my family history for many years, collecting stories and travelling to interesting places and building my family tree along the way. I like solving puzzles which has enabled me to learn about my heritage and piece together my family's history.
+I have been researching my family history for many years, collecting stories and travelling to interesting places and building my family tree along the way. I like solving puzzles which has enabled me to learn about my heritage and piece together my family's history.
